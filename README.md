@@ -1,2 +1,3 @@
 # cws-lstm
-Chinese Word Segmentation
+Chinese Word Segmentation using LSTM
+Implemented with Theano
