@@ -1,3 +1,2 @@
 # cws-lstm
-Chinese Word Segmentation using LSTM
-Implemented with Theano
+Long Short-Term Memory Neural Networks for Chinese Word Segmentation
