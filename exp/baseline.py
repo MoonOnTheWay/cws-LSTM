@@ -11,7 +11,7 @@ import sys
 sys.path.append('../')
 import time
 import numpy as np
-
+  
 from src.config import Config
 from src.loadData import load_data, prepare_batch_data
 from src import util
